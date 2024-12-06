@@ -24,10 +24,15 @@ Training: These models are trained on large datasets to learn patterns and gener
 ## Applications in Business:
 
 Natural Language Generation (Chatbots, content creation).
+
 Personalized Marketing.
+
 Product Design Prototypes.
+
 Automated Code Writing.
+
 Role in Transforming Business Operations
+
 Generative AI is redefining how businesses operate by enabling automation, personalization, and innovation. Below are key areas where Generative AI is making a significant impact:
 
 ## 1. Enhanced Customer Experiences
