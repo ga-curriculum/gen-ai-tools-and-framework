@@ -42,7 +42,7 @@ Visual Campaigns: Generate high-quality visuals and videos tailored to target au
 ## 4. Workforce Augmentation
 Automation: Streamline repetitive tasks like drafting emails or generating reports.
 Skill Enhancement: Assist employees in creative and technical fields with innovative tools.
-# 5. Operational Efficiency
+## 5. Operational Efficiency
 Predictive Insights: Generate scenarios to optimize supply chains and logistics.
 Synthetic Data: Create data for testing and model training, reducing dependency on real-world data.
 
